@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Github"
+    url: https://github.com/WebCuratorTool
+  - title: "Documentation"
+    url: https://webcuratortool.readthedocs.io/
+  - title: "News"
+    url: /year-archive/
+  - title: "Support"
+    url: /support/
+  - title: "About"
+    url: /about/
