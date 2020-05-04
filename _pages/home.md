@@ -7,10 +7,10 @@ header:
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+      url: "https://webcuratortool.readthedocs.io/en/latest/guides/quick-start-guide.html#installation"
 excerpt: >
   An open-source workflow management application for selective web archiving.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.19.2">Latest release v4.19.2</a></small>
+  <small><a href="https://github.com/DIA-NZ/webcurator/releases/tag/v2.0.2">Latest release v2.0.2</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
@@ -38,5 +38,5 @@ feature_row:
 {% include feature_row %}
 
 {% for post in site.posts limit:1 %}
-     {% include archive-single.html %}
+     {% include archive-single-home.html %}
   {% endfor %}

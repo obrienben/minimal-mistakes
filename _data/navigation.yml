@@ -4,8 +4,8 @@ main:
     url: https://github.com/WebCuratorTool
   - title: "Documentation"
     url: https://webcuratortool.readthedocs.io/
-  - title: "News"
-    url: /year-archive/
+  - title: "Blog"
+    url: /blog/
   - title: "Support"
     url: /support/
   - title: "About"
